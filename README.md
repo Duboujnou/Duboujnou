@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on my <a href="https://me.duboujnou.repl.co" align='center'>website</a>
 - 🌱 I’m currently learning a lot of things about code !
+- 🎨 I specialize in FrontEnd development
 
 <!--
 **Duboujnou/Duboujnou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
