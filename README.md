@@ -2,9 +2,8 @@
 <h1 align='center'>
   Hi! I'm Duboujnou 👋
 </h1>
-<a href="https://me.duboujnou.repl.co">My Website</a>
+<a href="https://me.duboujnou.repl.co" align='center'>My Website</a>
 
-## Hi there 👋
 
 <!--
 **Duboujnou/Duboujnou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
