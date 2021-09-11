@@ -2,9 +2,9 @@
 <h1 align='center'>
   Hi! I'm Duboujnou 👋
 </h1>
-<a href="https://me.duboujnou.repl.co" align='center'>My Website</a>
 
-- 🔭 I’m currently working on my website
+
+- 🔭 I’m currently working on my <a href="https://me.duboujnou.repl.co" align='center'>website</a>
 - 🌱 I’m currently learning a lot of things about code !
 
 <!--
