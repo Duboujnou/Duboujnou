@@ -4,6 +4,8 @@
 </h1>
 <a href="https://me.duboujnou.repl.co" align='center'>My Website</a>
 
+- 🔭 I’m currently working on my website
+- 🌱 I’m currently learning a lot of things about code !
 
 <!--
 **Duboujnou/Duboujnou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
