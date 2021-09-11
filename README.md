@@ -9,7 +9,7 @@
 - 🎨 I specialize in FrontEnd development
 
 
-### My programming languages and tools:
+### My programming languages and tools :
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="express" width="40" height="40"/>
