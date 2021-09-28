@@ -4,7 +4,7 @@
 </h1>
 
 
-- 🔭 I’m currently working on my <a href="https://duboujnou.me" align='center'>website</a>
+- 🔭 I’m currently working on my <a href="https://duboujnou.me" target="_blank" align='center'>website</a>
 - 🌱 I’m currently learning a lot of things about code !
 - 🎨 I specialize in FrontEnd development
 
